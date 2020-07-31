@@ -21,3 +21,6 @@ numba
 imageio
 nnaudio
 soundfile
+resampy
+librosa
+lmdb
